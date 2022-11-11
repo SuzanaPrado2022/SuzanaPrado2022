@@ -2,7 +2,7 @@
 - 👋 Olá, eu sou a **@SuzanaPrado2022**.
 - 📫 Meu contato é [email](suzana.bochoski@escola.pr.gov.br).
 - 👀 Eu estou interessada em aprender e programar novas linguagens.
-- 🌱 Eu estou aprendendo a programar as linguagens Scratch e HTML.
+- 🌱 Estou aprendendo a programar as linguagens Scratch e HTML.
 
 ![](https://a11ybadges.com/badge?logo=scratch)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
